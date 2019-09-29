@@ -1,0 +1,14 @@
+<div class="input-group">
+  
+  <input name="search"
+  ngModel 
+  class="form-control" 
+  placeholder="Search..." 
+  (ngModelChange)="filterColor(listColors, $event)"
+  />
+
+  <div class="inuput-group-appen">
+    <a [routerLink]="['/add-color']" class="btn btn-outline-secondary">+</a>
+  </div>
+
+</div>

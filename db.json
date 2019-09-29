@@ -1,0 +1,58 @@
+{
+  "colors": [
+    {
+      "name": "Abrahan",
+      "color": "#400080",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "KilluaKUN",
+      "color": "#32db24"
+    },
+    {
+      "id": 3,
+      "name": "Lucas Gomes",
+      "color": "#808000"
+    },
+    {
+      "id": 4,
+      "name": "KilluaKUN",
+      "color": "#7c7e83"
+    },
+    {
+      "name": "ygjv",
+      "color": "#000080",
+      "id": 5
+    },
+    {
+      "name": "kalangolouco",
+      "color": "#17e822",
+      "id": 6
+    },
+    {
+      "name": "hhv",
+      "color": "#23efd0",
+      "id": 7
+    },
+    {
+      "name": "ygjv",
+      "color": "#7eebeb",
+      "id": 8
+    },
+    {
+      "name": "",
+      "color": "#FFFFFF",
+      "id": 9
+    },
+    {
+      "name": "Lucas Gomes",
+      "color": "#1f5e61",
+      "id": 10
+    },
+    {
+      "color": "#FFFFFF",
+      "id": 11
+    }
+  ]
+}

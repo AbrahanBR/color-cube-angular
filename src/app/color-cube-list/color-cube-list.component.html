@@ -1,0 +1,9 @@
+<app-header></app-header>
+<app-search [listColors]="colors" (filteredColors)="onFilteredColors($event)"></app-search>
+
+<div class="row">
+  <app-color-cube *ngFor="let color of filteredColors || colors" 
+  class="col-12 col-md-3 mr-3 my-md-2 "
+  [color]="color"
+  ></app-color-cube>
+</div>
