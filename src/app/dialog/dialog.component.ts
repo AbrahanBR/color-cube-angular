@@ -1,9 +1,9 @@
+import * as $ from 'jquery';
+
 import { Component, AfterViewInit, Input } from '@angular/core';
 import { Router } from '@angular/router';
 
 import { DIALOG_STATUS } from './dialog.enum';
-
-declare const $: any;
 
 @Component({
   selector: 'app-dialog',

@@ -15,7 +15,7 @@ export class SearchComponent {
       this.filteredColors.emit(null);
       return;
     }
-    const colors = this.listColors.filter(color => {
+    const colors = listColor.filter(color => {
       const name = color.name.toLowerCase();
       return name.includes(colorName.toLowerCase());
     });
